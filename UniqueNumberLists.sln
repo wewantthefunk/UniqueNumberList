@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueNumberLists", "UniqueNumberLists\UniqueNumberLists.csproj", "{D279AED6-6C70-46A0-A667-5EE817A9CE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueNumberListUtility", "UniqueNumberListUtility\UniqueNumberListUtility.csproj", "{77DF22CD-13C2-479F-9B9E-E7B5145C56FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D279AED6-6C70-46A0-A667-5EE817A9CE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D279AED6-6C70-46A0-A667-5EE817A9CE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D279AED6-6C70-46A0-A667-5EE817A9CE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D279AED6-6C70-46A0-A667-5EE817A9CE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DF22CD-13C2-479F-9B9E-E7B5145C56FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF22CD-13C2-479F-9B9E-E7B5145C56FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF22CD-13C2-479F-9B9E-E7B5145C56FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF22CD-13C2-479F-9B9E-E7B5145C56FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B7C47D-2A01-43F2-8526-4C68155FA599}
+	EndGlobalSection
+EndGlobal
